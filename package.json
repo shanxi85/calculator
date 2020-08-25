@@ -1,0 +1,28 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "calculator",
+  "main": "index.js",
+  "scripts": {
+    "name": "node-ejs",
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shanxi85/calculator.git"
+  },
+  "author": "normala",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shanxi85/calculator/issues"
+  },
+  "homepage": "https://github.com/shanxi85/calculator#readme",
+  "dependencies": {
+    "ejs": "^3.1.5",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
